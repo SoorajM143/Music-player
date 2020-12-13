@@ -1,0 +1,9 @@
+use authorket from spotify devlopers for login
+using the access token create a player page.(player page handles all the logic)
+create a data layer(react comtext or redux);
+wrap app inside data layer in index.js
+creat initial state and reducer for the children
+
+create reducer js file
+
+
